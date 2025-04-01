@@ -43,21 +43,7 @@ def pdf_for_multistate_pdf(input_pdf, output_pdf):
 
 # Call the function to run with your parameters
 pdf_for_multistate_pdf(
-    'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\RM\\RM-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ARS\\AR-MASTR-PUB.pdf',              #Directory of File to be changed
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\BM\\BM-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\BMUG\\BU-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ER\\ER-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ETUG\\ETUG-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\Filing Guide\\FG-MASTR-PUB.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\Scopes\\SM-MASTR-PUB.pdf',
-    'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\RM\\RM-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ARS\\AR-MASTR-PUBLegalCopy.pdf',              #Directory of where your file will go and be named 
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\BMUG\\BU-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\BM\\BM-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ER\\ER-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ETUG\\ETUG-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\Filing Guide\\FG-MASTR-PUBLegalCopy.pdf',
-    #'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\Scopes\\SM-MASTR-PUBLegalCopy.pdf',
+    'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ARS\\AR-MASTER-PUB.pdf',
+    'C:\\Users\\CSFIM\\OneDrive - NCCI Holdings, Inc\\Desktop\\CO Notes\\Apps in Draft\\PDF-FOR-MULTISTATE-PDF\\ARS\\Test.pdf',
     )
 
